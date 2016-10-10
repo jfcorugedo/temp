@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<units size='1'>
+  <unit id='201607050705.Pitclipse' version='1.0.0.217AcLKCnh7735E3G3C3G3C'>
+    <properties size='2'>
+      <property name='org.eclipse.equinox.p2.name' value='Pitclipse'/>
+      <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+    </properties>
+    <provides size='1'>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='201607050705.Pitclipse' version='1.0.0.217AcLKCnh7735E3G3C3G3C'/>
+    </provides>
+    <requires size='1'>
+      <required namespace='org.eclipse.equinox.p2.iu' name='org.pitest.pitclipse.feature.feature.group' range='[1.1.6.201607050705,1.1.6.201607050705]'/>
+    </requires>
+    <touchpoint id='null' version='0.0.0'/>
+  </unit>
+</units>
